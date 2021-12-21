@@ -1,2 +1,2 @@
 # AmazonClone
-Amazon Clone Tools => React , StyledComponents , Stripe.js  Firebase
+Tools => React , StyledComponents , Stripe.js  Firebase
